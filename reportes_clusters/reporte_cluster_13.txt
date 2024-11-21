@@ -1,0 +1,12 @@
+Reporte para Cluster 13:
+Palabras más frecuentes:
+bbva: 386
+tarjeta: 361
+cliente: 350
+pago: 169
+banco: 165
+compra: 147
+permitir: 135
+crédito: 131
+millón: 110
+él: 109

@@ -1,0 +1,12 @@
+Reporte para Cluster 10:
+Palabras más frecuentes:
+país: 300
+colombia: 220
+alianza: 200
+él: 160
+empresa: 144
+año: 130
+presidente: 110
+comercio: 105
+sector: 96
+mercado: 96

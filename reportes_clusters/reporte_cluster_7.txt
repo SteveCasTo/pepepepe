@@ -1,0 +1,12 @@
+Reporte para Cluster 7:
+Palabras más frecuentes:
+poder: 693
+estar: 623
+él: 491
+hacer: 458
+mucho: 385
+empresa: 366
+otro: 354
+todo: 346
+año: 342
+decir: 333

@@ -1,0 +1,12 @@
+Reporte para Cluster 11:
+Palabras más frecuentes:
+tasa: 296
+inflación: 259
+banco: 180
+año: 167
+precio: 157
+punto: 126
+mercado: 119
+subir: 111
+aumento: 110
+central: 110

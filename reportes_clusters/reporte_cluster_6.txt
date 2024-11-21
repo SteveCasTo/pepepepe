@@ -1,0 +1,12 @@
+Reporte para Cluster 6:
+Palabras más frecuentes:
+sostenible: 391
+bbva: 357
+sostenibilidad: 233
+empresa: 198
+objetivo: 197
+poder: 192
+todo: 192
+estar: 191
+emisión: 184
+climático: 170

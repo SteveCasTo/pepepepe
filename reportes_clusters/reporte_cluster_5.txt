@@ -1,0 +1,12 @@
+Reporte para Cluster 5:
+Palabras más frecuentes:
+alianza: 299
+estar: 216
+nuevo: 188
+poder: 183
+nuestro: 149
+país: 142
+empresa: 139
+colombia: 137
+digital: 135
+hacer: 132

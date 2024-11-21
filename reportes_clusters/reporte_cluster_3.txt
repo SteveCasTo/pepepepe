@@ -1,0 +1,12 @@
+Reporte para Cluster 3:
+Palabras más frecuentes:
+bbva: 899
+empresa: 304
+estar: 234
+banco: 231
+poder: 223
+nuevo: 212
+todo: 208
+inversión: 201
+financiero: 200
+año: 198

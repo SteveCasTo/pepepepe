@@ -1,0 +1,12 @@
+Reporte para Cluster 14:
+Palabras más frecuentes:
+empresa: 137
+usuario: 122
+compañía: 104
+año: 88
+plataforma: 87
+él: 81
+digital: 79
+alianza: 78
+servicio: 78
+persona: 73

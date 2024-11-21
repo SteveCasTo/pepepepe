@@ -1,0 +1,12 @@
+Reporte para Cluster 0:
+Palabras más frecuentes:
+millón: 448
+estar: 243
+año: 238
+colombia: 222
+us: 217
+país: 192
+mercado: 182
+empresa: 171
+entre: 162
+él: 128

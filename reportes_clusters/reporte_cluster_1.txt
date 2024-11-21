@@ -1,0 +1,12 @@
+Reporte para Cluster 1:
+Palabras más frecuentes:
+poder: 329
+inflación: 316
+crecimiento: 298
+año: 277
+bbva: 275
+mayor: 246
+económico: 245
+méxico: 238
+nivel: 237
+país: 233

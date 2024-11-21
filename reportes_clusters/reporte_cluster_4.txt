@@ -1,0 +1,12 @@
+Reporte para Cluster 4:
+Palabras más frecuentes:
+inflación: 959
+precio: 724
+año: 493
+tasa: 410
+estar: 391
+mes: 367
+alimento: 337
+aumento: 294
+punto: 291
+ipc: 278

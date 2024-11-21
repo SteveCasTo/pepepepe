@@ -1,0 +1,12 @@
+Reporte para Cluster 9:
+Palabras más frecuentes:
+energía: 434
+agua: 261
+eléctrico: 163
+poder: 141
+estar: 106
+él: 105
+todo: 90
+electricidad: 86
+renovable: 86
+mucho: 83

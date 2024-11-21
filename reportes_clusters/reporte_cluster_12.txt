@@ -1,0 +1,12 @@
+Reporte para Cluster 12:
+Palabras más frecuentes:
+precio: 393
+inflación: 312
+año: 192
+mes: 192
+aumento: 140
+ipc: 130
+aumentar: 125
+tasa: 113
+alimento: 111
+subir: 100

@@ -1,0 +1,12 @@
+Reporte para Cluster 8:
+Palabras más frecuentes:
+cliente: 651
+bbva: 600
+banco: 456
+poder: 414
+tarjeta: 382
+pago: 358
+digital: 340
+financiero: 304
+estar: 253
+servicio: 253

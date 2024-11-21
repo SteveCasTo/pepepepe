@@ -1,0 +1,12 @@
+Reporte para Cluster 2:
+Palabras más frecuentes:
+consumo: 103
+gasto: 97
+bbva: 70
+mes: 69
+nivel: 61
+año: 57
+frente: 55
+mismo: 49
+crecer: 45
+periodo: 44
